@@ -10,27 +10,50 @@ widgets : {rCharts: [libraries/leaflet]}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Vision - deliver environment data as a service
+## Vision - deliver environment data presentation like as a web-based service
 
-* Dynamic 
+* Dynamic, open, reproducible, standardised and web-based 
 * Different levels of depth depending on user requirements
-* Different ways to access our data
+* Many ways to access our data
+
+---
+
+## Example of Dynamic data
+
+<iframe width="600px" height="300px"" frameBorder='0' src="https://dl.dropboxusercontent.com/u/7033208/total_editors.html"></iframe> 
+
+* also happens to be open, reproducible and web-based too
+
+---
+
+## Open
+
+* Open Government licence
 
 
 ---
 
-## Dynamic data from OpenStreetMap
+## Reproducible
 
-<iframe width="700px" height="600px"" frameBorder='0' src="https://dl.dropboxusercontent.com/u/7033208/total_editors.html" allowfullscreen></iframe> 
-
+* Avoiding building or relying on 'magic boxes'
+* Key part of the scientific method
+* Version control such 'Git'
 
 ---
 
-Offer different levels of access depending on user
+## Example of version control
+
+<iframe src="https://dl.dropboxusercontent.com/u/7033208/Photos/commits.png" height="500px"></iframe> 
+
+---
+## Offer different levels of access depending on user
 
 * DAVEcology Vs NEMS
+>- has to be manageable and avoid duplication
 
 ---
+
+## Different ways to get access data
 
 * Web services / APIs - tweet?
 * Data dumps like data.gov.uk
@@ -38,6 +61,11 @@ Offer different levels of access depending on user
 
 ---
 
+## What does this mean in terms of SEPA?
+
+* Get all data presentation on to web-based technology via internet or intranet applications
+* Build a dynamic, fast database as backend to web-based services
+* Move away from crystal Reports, Excel, even PowerPoint
 
 
 
