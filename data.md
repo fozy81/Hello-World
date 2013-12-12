@@ -10,7 +10,7 @@ widgets : {rCharts: [libraries/leaflet]}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Vision - Present environmental data as a web-based service
+## Vision - Presentation of environmental data as a web-based service
 
 * Dynamic
 * Open
@@ -22,9 +22,9 @@ mode        : selfcontained # {standalone, draft}
 
 ## Example of Dynamic data
 
-<iframe width="700px" height="250px"" src="https://dl.dropboxusercontent.com/u/7033208/total_editors.html"></iframe> 
+<iframe width="700px" height="250px"" src="https://dl.dropboxusercontent.com/u/7033208/editors_in_last_days.html"></iframe> 
 
-* also happens to be open, reproducible and web-based too
+# also happens to be open, reproducible and web-based too
 
 ---
 
@@ -32,12 +32,13 @@ mode        : selfcontained # {standalone, draft}
 
 * Open Government licence
 
+![Open Government Licence](http://upload.wikimedia.org/wikipedia/en/0/09/UK-Ogl-symbol.jpg)
 
 ---
 
 ## Reproducible
 
-* Avoiding building or relying on 'magic boxes'
+* Avoiding building or relying on 'black boxes'
 * Key part of the scientific method
 * Version control such as a 'Git'
 
@@ -64,28 +65,29 @@ mode        : selfcontained # {standalone, draft}
 
 ---
 
-## What does this mean in terms of SEPA?
+## Applying this to SEPA data
 
-* Get all data presentation on to web-based technology via internet or intranet applications
-* Build a dynamic, fast database as backend to web-based services
-* Move away from crystal Reports, Excel, even PowerPoint
+* Data presentation on to web-based technology 
+* Build a fast database as backend to support web-based services
+* Move away from static documents like Crystal reports, Excel, even PowerPoint
 * Open data policy
 
 ---
 
 ## Constraints
 
-* Improving performance and configuring the backend database
+* Improving performance & configuring the backend database
 * Training staff to use new web-based tools such as DAVEcology
-* Changing culture that everything ends up as a web-based solution - citizen science, performance reports, pollution reports...
-* Embedded systems and solutions which don't currently - if it ain't broke
+* Changing culture so everything ends up as a web-based solution - citizen science, performance reports, pollution reports...
+* Embedded systems and solutions - if it ain't broke
 
 ---
 
-### Vision for presenting environmental data?
+### Vision for presenting environmental data -  in a nutshell:
 
-* Much like this presentation! Dynmaic, open, reproducible, standardised and web-based
-* Constraints - hardwork.
+* Much like this presentation! Dynamic, open, reproducible, standardised and web-based
+* Constraints - 'All good things are difficult to achieve; and bad things are very easy to get.'
+
 
 
 
