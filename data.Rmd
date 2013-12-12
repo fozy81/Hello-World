@@ -10,17 +10,19 @@ widgets : {rCharts: [libraries/leaflet]}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Vision - deliver environment data presentation like as a web-based service
+## Vision - Present environmental data as a web-based service
 
-* Dynamic, open, reproducible, standardised and web-based 
-* Different levels of depth depending on user requirements
-* Many ways to access our data
+* Dynamic
+* Open
+* Reproducible
+* Standardised
+* Web-based
 
 ---
 
 ## Example of Dynamic data
 
-<iframe width="600px" height="300px"" frameBorder='0' src="https://dl.dropboxusercontent.com/u/7033208/total_editors.html"></iframe> 
+<iframe width="700px" height="250px"" src="https://dl.dropboxusercontent.com/u/7033208/total_editors.html"></iframe> 
 
 * also happens to be open, reproducible and web-based too
 
@@ -37,7 +39,7 @@ mode        : selfcontained # {standalone, draft}
 
 * Avoiding building or relying on 'magic boxes'
 * Key part of the scientific method
-* Version control such 'Git'
+* Version control such as a 'Git'
 
 ---
 
@@ -46,18 +48,19 @@ mode        : selfcontained # {standalone, draft}
 <iframe src="https://dl.dropboxusercontent.com/u/7033208/Photos/commits.png" height="500px"></iframe> 
 
 ---
-## Offer different levels of access depending on user
+## Standardised
 
-* DAVEcology Vs NEMS
->- has to be manageable and avoid duplication
+* Web standards such as INSPIRE
+* Web ontologies such OWL
+* Using standard (and open) web protocols such as Web Map Services
 
 ---
 
-## Different ways to get access data
+## Web-based
 
-* Web services / APIs - tweet?
+* Web services / APIs 
 * Data dumps like data.gov.uk
-* Different formats
+* Different formats csv, geojson, shp, html
 
 ---
 
@@ -66,7 +69,23 @@ mode        : selfcontained # {standalone, draft}
 * Get all data presentation on to web-based technology via internet or intranet applications
 * Build a dynamic, fast database as backend to web-based services
 * Move away from crystal Reports, Excel, even PowerPoint
+* Open data policy
 
+---
+
+## Constraints
+
+* Improving performance and configuring the backend database
+* Training staff to use new web-based tools such as DAVEcology
+* Changing culture that everything ends up as a web-based solution - citizen science, performance reports, pollution reports...
+* Embedded systems and solutions which don't currently - if it ain't broke
+
+---
+
+### Vision for presenting environmental data?
+
+* Much like this presentation! Dynmaic, open, reproducible, standardised and web-based
+* Constraints - hardwork.
 
 
 
